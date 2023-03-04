@@ -1,0 +1,365 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match Snapshot 1`] = `
+<div>
+  <div
+    class="App"
+    style="display: flex; flex-wrap: wrap;"
+  >
+    <button>
+      Show Favorites
+    </button>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Berserk
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/1/157897.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-2"
+      >
+        *
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      JoJo no Kimyou na Bouken Part 7: Steel Ball Run
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/3/179882.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-1706"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Vagabond
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/1/259070.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-656"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      One Piece
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/2/253146.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-13"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Monster
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/3/258224.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-1"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Slam Dunk
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/2/258749.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-51"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Fullmetal Alchemist
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/3/243675.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-25"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Grand Blue
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/2/166124.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-70345"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Vinland Saga
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/2/188925.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-642"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Oyasumi Punpun
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/3/266834.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-4632"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Kingdom
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/2/171872.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-16765"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Houseki no Kuni
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/1/115443.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-44489"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      20th Century Boys
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/5/260006.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-3"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Ashita no Joe
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/1/268827.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-1303"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Monogatari Series: First Season
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/5/173535.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-14893"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Real
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/2/115969.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-657"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/3/188896.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-90125"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/2/177958.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-89357"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Monogatari Series: Second Season
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/2/181553.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-23751"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/3/235363.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-123992"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Mikkakan no Koufuku
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/3/248674.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-126479"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      GTO
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/2/172982.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-336"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      3-gatsu no Lion
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/2/52283.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-1224"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Yotsuba to!
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/5/259524.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-104"
+      >
+         Favoritar
+      </button>
+    </div>
+    <div
+      style="display: flex; flex-direction: column;"
+    >
+      Monogatari Series: Final Season
+      <img
+        alt=""
+        src="https://cdn.myanimelist.net/images/manga/1/181554.jpg"
+      />
+      <button
+        data-testid="Favorite-Button-44227"
+      >
+         Favoritar
+      </button>
+    </div>
+  </div>
+</div>
+`;
